@@ -492,8 +492,8 @@ ninja.data = [{
           description: "",
           section: "Talks",handler: () => {
               window.location.href = "/talks/APS_talk/";
-            },},{id: "talks-giant-density-fluctuations-in-locally-hyperuniform-states",
-          title: 'Giant density fluctuations in locally hyperuniform states',
+            },},{id: "talks-giant-number-fluctuations-in-locally-hyperuniform-states",
+          title: 'Giant number fluctuations in locally hyperuniform states',
           description: "",
           section: "Talks",handler: () => {
               window.location.href = "/talks/example_talk/";
